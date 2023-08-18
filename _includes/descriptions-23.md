@@ -24,6 +24,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Davidson College
+{: #davidson}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department is most interested in candidates with research expertise and teaching interests in systems (broadly defined), who can support and expand our [curriculum](http://catalog.davidson.edu/preview_program.php?catoid=25&poid=1628&returnto=1168), and enhance research opportunities for students.
+
+- Applications received by **October 1, 2023** will receive full consideration, though the position will remain open until filled.
+- Davidson, NC. USA
+
+[Full Job Posting](https://employment.davidson.edu/en-us/job/494552/assistant-professor-of-mathematics-and-computer-science){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Haverford College
 {: #haverford}
 
